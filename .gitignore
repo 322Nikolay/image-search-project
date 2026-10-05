@@ -1,0 +1,12 @@
+to_upload/
+datasets/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pth
+*.pt
+*.zip
+.DS_Store
+Thumbs.db
